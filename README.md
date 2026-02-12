@@ -3,3 +3,4 @@ This sample project is designed to help you understand how to adopt SwiftData in
 A Core Data version that demonstrates Core Data best practices.
 A SwiftData version that shows the complete app conversion from Core Data to SwiftData.
 A coexistence version, where the sample app uses Core Data, and adds a widget extension that uses SwiftData. This version covers a scenario where you might want to adopt SwiftData incrementally, or for certain portions of your app.
+<img width="7855" height="3735" alt="Untitled diagram-2026-02-12-143433" src="https://github.com/user-attachments/assets/6280d401-df25-4cce-a51f-2ec142696b54" />
